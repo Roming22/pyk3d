@@ -1,0 +1,8 @@
+Python 3.9
+Name                       Stmts   Miss  Cover
+----------------------------------------------
+src/pyk3d/__init__.py          1      0   100%
+src/pyk3d/__version__.py       4      1    75%
+src/pyk3d/mymodule.py          5      0   100%
+----------------------------------------------
+TOTAL                         10      1    90%
